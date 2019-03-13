@@ -110,7 +110,7 @@ public class MagicCards {
 	
 	@Override
 	public String toString() {
-		return "Card Info [id = “ + id + “, name=" + name + ", type=" + type + ", manacost=" + manacost + ", attack=" + attack + ", defence=" + defence + " " + deck.toString() + "]";
+		return "Card Info [id ="  + id +" , name=" + name + ", type=" + type + ", manacost=" + manacost + ", attack=" + attack + ", defence=" + defence + " " + deck.toString() + "]";
 	}
 }
 
